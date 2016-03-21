@@ -1,0 +1,22 @@
+{
+  "name": "widget-address",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirceaalexandru/widget-address.git"
+  },
+  "author": "Mircea Alexandru (http://alexandrumircea.ro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirceaalexandru/widget-address/issues"
+  },
+  "homepage": "https://github.com/mirceaalexandru/widget-address#readme",
+  "dependencies": {
+    "react": "^0.14.7"
+  }
+}
